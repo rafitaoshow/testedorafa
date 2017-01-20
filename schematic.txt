@@ -5,3 +5,4 @@ http://schematics.com/project/projeto-protetor-47069/
 - adicionado circuito necessário para medidor de corrente
 - adicionado relé
 - adicionado shield Display LCD 16x2
+- teste 
